@@ -1,0 +1,70 @@
+body {
+    max-width: 100%;
+   background: #3498db;
+}
+
+.caja{
+    background:white;
+    background-size: 200px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 100px;
+    right: 400px;
+    box-shadow: 7px 9px 5px -3px rgba(0,0,0,0.54);
+
+    
+}
+.texto{
+    font-size: 15px;
+    margin: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color:  black;
+}
+img{
+   width: 500px;
+   height: 200px;  
+}
+
+.pie{
+   position: absolute;
+   font-size: 15px;
+   left: 385px;
+   bottom: 17px;
+}
+
+.icono {
+    position: absolute;
+    left: 445px;
+    top: 450px;
+}
+
+.line{
+    border-bottom: 1px solid #3D7EB7;
+    padding: 30px;
+}
+
+.sol {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 320px;
+    top: 293px;
+    
+}
+
+.termometro {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 400px;
+    top: 262px;
+}
+
+.bandera{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 230px;
+    left: 171px;
+}
